@@ -1,0 +1,3 @@
+/workspaces/projeto_GRPC/config_cpp/CMakeFiles/generate_grpc_files.dir
+/workspaces/projeto_GRPC/config_cpp/CMakeFiles/edit_cache.dir
+/workspaces/projeto_GRPC/config_cpp/CMakeFiles/rebuild_cache.dir
