@@ -1,0 +1,3 @@
+[2025-10-26 16:41:57] SUCCESS - Service: CompressPDF, File: sample.pdf, Message: Fallback: arquivo copiado
+[2025-10-26 16:41:57] SUCCESS - Service: ConvertImageFormat, File: pixel.png, Message: Fallback: cópia
+[2025-10-26 16:41:57] SUCCESS - Service: ResizeImage, File: pixel.png, Message: Fallback: cópia

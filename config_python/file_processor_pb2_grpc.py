@@ -3,7 +3,8 @@
 import grpc
 import warnings
 
-from proto import file_processor_pb2 as proto_dot_file__processor__pb2
+# Ajustado para importar do pacote config_python, onde os módulos pb2 foram gerados
+from config_python import file_processor_pb2 as proto_dot_file__processor__pb2
 
 GRPC_GENERATED_VERSION = '1.75.1'
 GRPC_VERSION = grpc.__version__
