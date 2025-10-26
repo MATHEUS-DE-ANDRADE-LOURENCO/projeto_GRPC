@@ -1,0 +1,10 @@
+Servidor gRPC ouvindo em 0.0.0.0:50051
+   **** Error: Couldn't initialise file.
+               Output may be incorrect.
+   No pages will be processed (FirstPage > LastPage).
+Syntax Error: Top-level pages object is wrong type (null)
+Command Line Error: Wrong page range given: the first page (1) can not be after the last page (0).
+convert-im6.q16: IDAT: CRC error `server_cpp/storage/in_pixel.png' @ error/png.c/MagickPNGErrorHandler/1643.
+convert-im6.q16: no images defined `server_cpp/storage/pixel.jpg' @ error/convert.c/ConvertImageCommand/3234.
+convert-im6.q16: IDAT: CRC error `server_cpp/storage/in_pixel.png' @ error/png.c/MagickPNGErrorHandler/1643.
+convert-im6.q16: no images defined `server_cpp/storage/pixel_64x64.img' @ error/convert.c/ConvertImageCommand/3234.
